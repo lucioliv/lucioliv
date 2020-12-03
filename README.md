@@ -23,6 +23,6 @@ I 💜 technology, so it allowed me to het here. With the codes I can go much fu
 ## Linguagens and Tools  
 
 - [VS Code](https://code.visualstudio.com/docs)  
-- [C / C++}(https://docs.microsoft.com/)  
+- [C / C++](https://docs.microsoft.com/)  
 - [JavaScript](https://developer.mozilla.org/)  
 - [HTML5](https://dev.w3.org/html5/html-author/)  
